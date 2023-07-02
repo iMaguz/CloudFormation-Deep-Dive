@@ -1,9 +1,9 @@
 {
-  "Parameters" : {
-    "DBName" : "ProdWordPressDB",
-    "DBPassword" : "ProdDBPassword",
-    "DBRootPassword" : "ProdDBRootPassword",
-    "DBUser" : "ProdDBuser",    
-    "KeyName" : "ProdEC2KeyName"
+  "Parameters": {
+    "DBName": "ProdWordPressDB",
+    "DBPassword": "ProdDBPassword1",
+    "DBRootPassword": "ProdDBRootPassword1",
+    "DBUser": "ProdDBuser",
+    "KeyName": "ProdEC2KeyName"
   }
 }
